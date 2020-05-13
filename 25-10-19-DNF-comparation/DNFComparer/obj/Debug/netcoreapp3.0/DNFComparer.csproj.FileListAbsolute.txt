@@ -1,0 +1,11 @@
+C:\Users\79823\source\repos\25-10-19-DNF-comparation\DNFComparer\bin\Debug\netcoreapp3.0\DNFComparer.exe
+C:\Users\79823\source\repos\25-10-19-DNF-comparation\DNFComparer\bin\Debug\netcoreapp3.0\DNFComparer.deps.json
+C:\Users\79823\source\repos\25-10-19-DNF-comparation\DNFComparer\bin\Debug\netcoreapp3.0\DNFComparer.runtimeconfig.json
+C:\Users\79823\source\repos\25-10-19-DNF-comparation\DNFComparer\bin\Debug\netcoreapp3.0\DNFComparer.runtimeconfig.dev.json
+C:\Users\79823\source\repos\25-10-19-DNF-comparation\DNFComparer\bin\Debug\netcoreapp3.0\DNFComparer.dll
+C:\Users\79823\source\repos\25-10-19-DNF-comparation\DNFComparer\bin\Debug\netcoreapp3.0\DNFComparer.pdb
+C:\Users\79823\source\repos\25-10-19-DNF-comparation\DNFComparer\obj\Debug\netcoreapp3.0\DNFComparer.AssemblyInfoInputs.cache
+C:\Users\79823\source\repos\25-10-19-DNF-comparation\DNFComparer\obj\Debug\netcoreapp3.0\DNFComparer.AssemblyInfo.cs
+C:\Users\79823\source\repos\25-10-19-DNF-comparation\DNFComparer\obj\Debug\netcoreapp3.0\DNFComparer.dll
+C:\Users\79823\source\repos\25-10-19-DNF-comparation\DNFComparer\obj\Debug\netcoreapp3.0\DNFComparer.pdb
+C:\Users\79823\source\repos\25-10-19-DNF-comparation\DNFComparer\obj\Debug\netcoreapp3.0\DNFComparer.csprojAssemblyReference.cache

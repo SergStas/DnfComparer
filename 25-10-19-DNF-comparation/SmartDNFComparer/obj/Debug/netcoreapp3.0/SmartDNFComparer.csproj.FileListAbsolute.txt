@@ -1,0 +1,15 @@
+C:\Users\79823\source\repos\25-10-19-DNF-comparation\SmartDNFComparer\obj\Debug\netcoreapp3.0\SmartDNFComparer.csprojAssemblyReference.cache
+C:\Users\79823\source\repos\25-10-19-DNF-comparation\SmartDNFComparer\obj\Debug\netcoreapp3.0\SmartDNFComparer.AssemblyInfoInputs.cache
+C:\Users\79823\source\repos\25-10-19-DNF-comparation\SmartDNFComparer\obj\Debug\netcoreapp3.0\SmartDNFComparer.AssemblyInfo.cs
+C:\Users\79823\source\repos\25-10-19-DNF-comparation\SmartDNFComparer\bin\Debug\netcoreapp3.0\DNFComparer.exe
+C:\Users\79823\source\repos\25-10-19-DNF-comparation\SmartDNFComparer\bin\Debug\netcoreapp3.0\SmartDNFComparer.exe
+C:\Users\79823\source\repos\25-10-19-DNF-comparation\SmartDNFComparer\bin\Debug\netcoreapp3.0\SmartDNFComparer.deps.json
+C:\Users\79823\source\repos\25-10-19-DNF-comparation\SmartDNFComparer\bin\Debug\netcoreapp3.0\SmartDNFComparer.runtimeconfig.json
+C:\Users\79823\source\repos\25-10-19-DNF-comparation\SmartDNFComparer\bin\Debug\netcoreapp3.0\SmartDNFComparer.runtimeconfig.dev.json
+C:\Users\79823\source\repos\25-10-19-DNF-comparation\SmartDNFComparer\bin\Debug\netcoreapp3.0\SmartDNFComparer.dll
+C:\Users\79823\source\repos\25-10-19-DNF-comparation\SmartDNFComparer\bin\Debug\netcoreapp3.0\SmartDNFComparer.pdb
+C:\Users\79823\source\repos\25-10-19-DNF-comparation\SmartDNFComparer\bin\Debug\netcoreapp3.0\DNFComparer.dll
+C:\Users\79823\source\repos\25-10-19-DNF-comparation\SmartDNFComparer\bin\Debug\netcoreapp3.0\DNFComparer.pdb
+C:\Users\79823\source\repos\25-10-19-DNF-comparation\SmartDNFComparer\obj\Debug\netcoreapp3.0\SmartDNFComparer.csproj.CopyComplete
+C:\Users\79823\source\repos\25-10-19-DNF-comparation\SmartDNFComparer\obj\Debug\netcoreapp3.0\SmartDNFComparer.dll
+C:\Users\79823\source\repos\25-10-19-DNF-comparation\SmartDNFComparer\obj\Debug\netcoreapp3.0\SmartDNFComparer.pdb
